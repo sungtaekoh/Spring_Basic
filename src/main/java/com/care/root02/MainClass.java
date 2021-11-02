@@ -12,6 +12,8 @@ public class MainClass {
 //		컨테이너에 대한 정보를 가져온다/xml의 값을 로드시켜준다
 		
 		STBean stBean = ctx.getBean("stb",STBean.class);
+		//이게 무슨뜻일까..? stb가뭐지?
+		
 //		STBean stBean = new STBean();
 //		stBean.Name("홍길동");
 //		stBean.setAge(20);

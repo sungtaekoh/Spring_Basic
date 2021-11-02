@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	
+	<bean id="car" class="com.care.car.Controller02"/>
+	<!-- 변수 만드는 코드 -->
+	<!-- 파일으 교체할때 이것만 바꾸면 되니까 설령 이미 사용한 코드가 많더라도 비교적 수월하게 교체 가능하다 -->
+
+</beans>
